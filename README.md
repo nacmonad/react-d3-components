@@ -1,6 +1,6 @@
 # react-d3-components-es6
 
-> D3 Components for React
+> Reimplementation of Codesuki's D3 Components for React ES6
 
 The purpose of this fork is to refactor the components into a state that's ES6 compatible, and sans mixins.
 
